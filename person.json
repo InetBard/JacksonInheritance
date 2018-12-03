@@ -1,0 +1,27 @@
+[
+	{
+		"@class": "telran.person.domain.Child",
+		"id": 123,
+		"name": "Mosche",
+		"birthDate": "2014-05-12",
+		"address": {
+			"city": "Lod",
+			"street": "Sokolov",
+			"aprt": 12
+		},
+		"kindergarten": "Tapuz"
+	},
+	{
+		"@class": "telran.person.domain.Employyee",
+		"id": 124,
+		"name": "George",
+		"birthDate": "1970-12-21",
+		"address": {
+			"city": "KfarSaba",
+			"street": "Hertzl",
+			"aprt": 12
+		},
+		"company": "Company",
+		"salary": 123
+	}
+]
